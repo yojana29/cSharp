@@ -1,0 +1,15 @@
+C:\Users\yojan\OneDrive\Desktop\dotnet\day4Constructor\obj\Debug\net9.0\day4Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yojan\OneDrive\Desktop\dotnet\day4Constructor\obj\Debug\net9.0\day4Constructor.AssemblyInfoInputs.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\day4Constructor\obj\Debug\net9.0\day4Constructor.AssemblyInfo.cs
+C:\Users\yojan\OneDrive\Desktop\dotnet\day4Constructor\obj\Debug\net9.0\day4Constructor.csproj.CoreCompileInputs.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\day4Constructor\obj\Debug\net9.0\day4Constructor.sourcelink.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\day4Constructor\bin\Debug\net9.0\day4Constructor.exe
+C:\Users\yojan\OneDrive\Desktop\dotnet\day4Constructor\bin\Debug\net9.0\day4Constructor.deps.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\day4Constructor\bin\Debug\net9.0\day4Constructor.runtimeconfig.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\day4Constructor\bin\Debug\net9.0\day4Constructor.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\day4Constructor\bin\Debug\net9.0\day4Constructor.pdb
+C:\Users\yojan\OneDrive\Desktop\dotnet\day4Constructor\obj\Debug\net9.0\day4Constructor.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\day4Constructor\obj\Debug\net9.0\refint\day4Constructor.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\day4Constructor\obj\Debug\net9.0\day4Constructor.pdb
+C:\Users\yojan\OneDrive\Desktop\dotnet\day4Constructor\obj\Debug\net9.0\day4Constructor.genruntimeconfig.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\day4Constructor\obj\Debug\net9.0\ref\day4Constructor.dll
