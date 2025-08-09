@@ -1,0 +1,15 @@
+C:\Users\yojan\OneDrive\Desktop\dotnet\day5ClassAndObject\bin\Debug\net9.0\day5ClassAndObject.exe
+C:\Users\yojan\OneDrive\Desktop\dotnet\day5ClassAndObject\bin\Debug\net9.0\day5ClassAndObject.deps.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\day5ClassAndObject\bin\Debug\net9.0\day5ClassAndObject.runtimeconfig.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\day5ClassAndObject\bin\Debug\net9.0\day5ClassAndObject.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\day5ClassAndObject\bin\Debug\net9.0\day5ClassAndObject.pdb
+C:\Users\yojan\OneDrive\Desktop\dotnet\day5ClassAndObject\obj\Debug\net9.0\day5ClassAndObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yojan\OneDrive\Desktop\dotnet\day5ClassAndObject\obj\Debug\net9.0\day5ClassAndObject.AssemblyInfoInputs.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\day5ClassAndObject\obj\Debug\net9.0\day5ClassAndObject.AssemblyInfo.cs
+C:\Users\yojan\OneDrive\Desktop\dotnet\day5ClassAndObject\obj\Debug\net9.0\day5ClassAndObject.csproj.CoreCompileInputs.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\day5ClassAndObject\obj\Debug\net9.0\day5ClassAndObject.sourcelink.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\day5ClassAndObject\obj\Debug\net9.0\day5ClassAndObject.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\day5ClassAndObject\obj\Debug\net9.0\refint\day5ClassAndObject.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\day5ClassAndObject\obj\Debug\net9.0\day5ClassAndObject.pdb
+C:\Users\yojan\OneDrive\Desktop\dotnet\day5ClassAndObject\obj\Debug\net9.0\day5ClassAndObject.genruntimeconfig.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\day5ClassAndObject\obj\Debug\net9.0\ref\day5ClassAndObject.dll
