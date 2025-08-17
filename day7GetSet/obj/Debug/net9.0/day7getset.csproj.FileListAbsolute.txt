@@ -1,0 +1,15 @@
+C:\Users\yojan\OneDrive\Desktop\dotnet\day7getset\bin\Debug\net9.0\day7getset.exe
+C:\Users\yojan\OneDrive\Desktop\dotnet\day7getset\bin\Debug\net9.0\day7getset.deps.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\day7getset\bin\Debug\net9.0\day7getset.runtimeconfig.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\day7getset\bin\Debug\net9.0\day7getset.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\day7getset\bin\Debug\net9.0\day7getset.pdb
+C:\Users\yojan\OneDrive\Desktop\dotnet\day7getset\obj\Debug\net9.0\day7getset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yojan\OneDrive\Desktop\dotnet\day7getset\obj\Debug\net9.0\day7getset.AssemblyInfoInputs.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\day7getset\obj\Debug\net9.0\day7getset.AssemblyInfo.cs
+C:\Users\yojan\OneDrive\Desktop\dotnet\day7getset\obj\Debug\net9.0\day7getset.csproj.CoreCompileInputs.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\day7getset\obj\Debug\net9.0\day7getset.sourcelink.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\day7getset\obj\Debug\net9.0\day7getset.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\day7getset\obj\Debug\net9.0\refint\day7getset.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\day7getset\obj\Debug\net9.0\day7getset.pdb
+C:\Users\yojan\OneDrive\Desktop\dotnet\day7getset\obj\Debug\net9.0\day7getset.genruntimeconfig.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\day7getset\obj\Debug\net9.0\ref\day7getset.dll
