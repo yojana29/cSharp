@@ -1,0 +1,15 @@
+C:\Users\yojan\OneDrive\Desktop\dotnet\day9Arrays\obj\Debug\net9.0\day9Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yojan\OneDrive\Desktop\dotnet\day9Arrays\obj\Debug\net9.0\day9Arrays.AssemblyInfoInputs.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\day9Arrays\obj\Debug\net9.0\day9Arrays.AssemblyInfo.cs
+C:\Users\yojan\OneDrive\Desktop\dotnet\day9Arrays\obj\Debug\net9.0\day9Arrays.csproj.CoreCompileInputs.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\day9Arrays\obj\Debug\net9.0\day9Arrays.sourcelink.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\day9Arrays\bin\Debug\net9.0\day9Arrays.exe
+C:\Users\yojan\OneDrive\Desktop\dotnet\day9Arrays\bin\Debug\net9.0\day9Arrays.deps.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\day9Arrays\bin\Debug\net9.0\day9Arrays.runtimeconfig.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\day9Arrays\bin\Debug\net9.0\day9Arrays.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\day9Arrays\bin\Debug\net9.0\day9Arrays.pdb
+C:\Users\yojan\OneDrive\Desktop\dotnet\day9Arrays\obj\Debug\net9.0\day9Arrays.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\day9Arrays\obj\Debug\net9.0\refint\day9Arrays.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\day9Arrays\obj\Debug\net9.0\day9Arrays.pdb
+C:\Users\yojan\OneDrive\Desktop\dotnet\day9Arrays\obj\Debug\net9.0\day9Arrays.genruntimeconfig.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\day9Arrays\obj\Debug\net9.0\ref\day9Arrays.dll
