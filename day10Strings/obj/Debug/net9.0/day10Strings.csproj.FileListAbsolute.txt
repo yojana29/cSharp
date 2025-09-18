@@ -1,0 +1,15 @@
+C:\Users\yojan\OneDrive\Desktop\dotnet\day10Strings\bin\Debug\net9.0\day10Strings.exe
+C:\Users\yojan\OneDrive\Desktop\dotnet\day10Strings\bin\Debug\net9.0\day10Strings.deps.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\day10Strings\bin\Debug\net9.0\day10Strings.runtimeconfig.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\day10Strings\bin\Debug\net9.0\day10Strings.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\day10Strings\bin\Debug\net9.0\day10Strings.pdb
+C:\Users\yojan\OneDrive\Desktop\dotnet\day10Strings\obj\Debug\net9.0\day10Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yojan\OneDrive\Desktop\dotnet\day10Strings\obj\Debug\net9.0\day10Strings.AssemblyInfoInputs.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\day10Strings\obj\Debug\net9.0\day10Strings.AssemblyInfo.cs
+C:\Users\yojan\OneDrive\Desktop\dotnet\day10Strings\obj\Debug\net9.0\day10Strings.csproj.CoreCompileInputs.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\day10Strings\obj\Debug\net9.0\day10Strings.sourcelink.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\day10Strings\obj\Debug\net9.0\day10Strings.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\day10Strings\obj\Debug\net9.0\refint\day10Strings.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\day10Strings\obj\Debug\net9.0\day10Strings.pdb
+C:\Users\yojan\OneDrive\Desktop\dotnet\day10Strings\obj\Debug\net9.0\day10Strings.genruntimeconfig.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\day10Strings\obj\Debug\net9.0\ref\day10Strings.dll
