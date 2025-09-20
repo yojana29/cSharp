@@ -1,0 +1,15 @@
+C:\Users\yojan\OneDrive\Desktop\dotnet\day11Inheritance\obj\Debug\net9.0\day11Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yojan\OneDrive\Desktop\dotnet\day11Inheritance\obj\Debug\net9.0\day11Inheritance.AssemblyInfoInputs.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\day11Inheritance\obj\Debug\net9.0\day11Inheritance.AssemblyInfo.cs
+C:\Users\yojan\OneDrive\Desktop\dotnet\day11Inheritance\obj\Debug\net9.0\day11Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\day11Inheritance\obj\Debug\net9.0\day11Inheritance.sourcelink.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\day11Inheritance\bin\Debug\net9.0\day11Inheritance.exe
+C:\Users\yojan\OneDrive\Desktop\dotnet\day11Inheritance\bin\Debug\net9.0\day11Inheritance.deps.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\day11Inheritance\bin\Debug\net9.0\day11Inheritance.runtimeconfig.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\day11Inheritance\bin\Debug\net9.0\day11Inheritance.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\day11Inheritance\bin\Debug\net9.0\day11Inheritance.pdb
+C:\Users\yojan\OneDrive\Desktop\dotnet\day11Inheritance\obj\Debug\net9.0\day11Inheritance.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\day11Inheritance\obj\Debug\net9.0\refint\day11Inheritance.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\day11Inheritance\obj\Debug\net9.0\day11Inheritance.pdb
+C:\Users\yojan\OneDrive\Desktop\dotnet\day11Inheritance\obj\Debug\net9.0\day11Inheritance.genruntimeconfig.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\day11Inheritance\obj\Debug\net9.0\ref\day11Inheritance.dll
