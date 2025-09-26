@@ -1,0 +1,15 @@
+C:\Users\yojan\OneDrive\Desktop\dotnet\day14BaseKeyword\obj\Debug\net9.0\day14BaseKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yojan\OneDrive\Desktop\dotnet\day14BaseKeyword\obj\Debug\net9.0\day14BaseKeyword.AssemblyInfoInputs.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\day14BaseKeyword\obj\Debug\net9.0\day14BaseKeyword.AssemblyInfo.cs
+C:\Users\yojan\OneDrive\Desktop\dotnet\day14BaseKeyword\obj\Debug\net9.0\day14BaseKeyword.csproj.CoreCompileInputs.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\day14BaseKeyword\obj\Debug\net9.0\day14BaseKeyword.sourcelink.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\day14BaseKeyword\bin\Debug\net9.0\day14BaseKeyword.exe
+C:\Users\yojan\OneDrive\Desktop\dotnet\day14BaseKeyword\bin\Debug\net9.0\day14BaseKeyword.deps.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\day14BaseKeyword\bin\Debug\net9.0\day14BaseKeyword.runtimeconfig.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\day14BaseKeyword\bin\Debug\net9.0\day14BaseKeyword.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\day14BaseKeyword\bin\Debug\net9.0\day14BaseKeyword.pdb
+C:\Users\yojan\OneDrive\Desktop\dotnet\day14BaseKeyword\obj\Debug\net9.0\day14BaseKeyword.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\day14BaseKeyword\obj\Debug\net9.0\refint\day14BaseKeyword.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\day14BaseKeyword\obj\Debug\net9.0\day14BaseKeyword.pdb
+C:\Users\yojan\OneDrive\Desktop\dotnet\day14BaseKeyword\obj\Debug\net9.0\day14BaseKeyword.genruntimeconfig.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\day14BaseKeyword\obj\Debug\net9.0\ref\day14BaseKeyword.dll
