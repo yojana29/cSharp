@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("day14BaseKeyword")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0deb3ff186bfadef6e2aa1df5da1d3454088fc3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65c1afbf2ef67935b1c476f5d5fc2e0fa751ee1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("day14BaseKeyword")]
 [assembly: System.Reflection.AssemblyTitleAttribute("day14BaseKeyword")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

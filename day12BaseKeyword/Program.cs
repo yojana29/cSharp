@@ -1,4 +1,6 @@
-﻿using System;
+﻿//base keyword for calling constructor
+
+using System;
 class Person
 {
     public string Name;
