@@ -1,0 +1,15 @@
+C:\Users\yojan\OneDrive\Desktop\dotnet\interfaceUse\bin\Debug\net9.0\interfaceUse.exe
+C:\Users\yojan\OneDrive\Desktop\dotnet\interfaceUse\bin\Debug\net9.0\interfaceUse.deps.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\interfaceUse\bin\Debug\net9.0\interfaceUse.runtimeconfig.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\interfaceUse\bin\Debug\net9.0\interfaceUse.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\interfaceUse\bin\Debug\net9.0\interfaceUse.pdb
+C:\Users\yojan\OneDrive\Desktop\dotnet\interfaceUse\obj\Debug\net9.0\interfaceUse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yojan\OneDrive\Desktop\dotnet\interfaceUse\obj\Debug\net9.0\interfaceUse.AssemblyInfoInputs.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\interfaceUse\obj\Debug\net9.0\interfaceUse.AssemblyInfo.cs
+C:\Users\yojan\OneDrive\Desktop\dotnet\interfaceUse\obj\Debug\net9.0\interfaceUse.csproj.CoreCompileInputs.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\interfaceUse\obj\Debug\net9.0\interfaceUse.sourcelink.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\interfaceUse\obj\Debug\net9.0\interfaceUse.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\interfaceUse\obj\Debug\net9.0\refint\interfaceUse.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\interfaceUse\obj\Debug\net9.0\interfaceUse.pdb
+C:\Users\yojan\OneDrive\Desktop\dotnet\interfaceUse\obj\Debug\net9.0\interfaceUse.genruntimeconfig.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\interfaceUse\obj\Debug\net9.0\ref\interfaceUse.dll
