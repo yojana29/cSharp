@@ -1,0 +1,15 @@
+C:\Users\yojan\OneDrive\Desktop\dotnet\partialClass\bin\Debug\net9.0\partialClass.exe
+C:\Users\yojan\OneDrive\Desktop\dotnet\partialClass\bin\Debug\net9.0\partialClass.deps.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\partialClass\bin\Debug\net9.0\partialClass.runtimeconfig.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\partialClass\bin\Debug\net9.0\partialClass.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\partialClass\bin\Debug\net9.0\partialClass.pdb
+C:\Users\yojan\OneDrive\Desktop\dotnet\partialClass\obj\Debug\net9.0\partialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yojan\OneDrive\Desktop\dotnet\partialClass\obj\Debug\net9.0\partialClass.AssemblyInfoInputs.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\partialClass\obj\Debug\net9.0\partialClass.AssemblyInfo.cs
+C:\Users\yojan\OneDrive\Desktop\dotnet\partialClass\obj\Debug\net9.0\partialClass.csproj.CoreCompileInputs.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\partialClass\obj\Debug\net9.0\partialClass.sourcelink.json
+C:\Users\yojan\OneDrive\Desktop\dotnet\partialClass\obj\Debug\net9.0\partialClass.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\partialClass\obj\Debug\net9.0\refint\partialClass.dll
+C:\Users\yojan\OneDrive\Desktop\dotnet\partialClass\obj\Debug\net9.0\partialClass.pdb
+C:\Users\yojan\OneDrive\Desktop\dotnet\partialClass\obj\Debug\net9.0\partialClass.genruntimeconfig.cache
+C:\Users\yojan\OneDrive\Desktop\dotnet\partialClass\obj\Debug\net9.0\ref\partialClass.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("day9Arrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abb69ed4bb8c3a2860ad1b2a627230ac0a3bd9ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+078299806b916ae4fd5bfed9b5802fd2b59a3cd2")]
 [assembly: System.Reflection.AssemblyProductAttribute("day9Arrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("day9Arrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
